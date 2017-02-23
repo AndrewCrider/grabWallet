@@ -3,7 +3,7 @@
  
   "name": "Grab Wallet (from Trump)",
 	"short_name": "Grab Wallet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Keep money out of Trump's grubby hands.",
 	"browser_action": {
     "default_icon": "grabwallettrump.png",
